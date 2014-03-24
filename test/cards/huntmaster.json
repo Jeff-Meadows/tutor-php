@@ -1,0 +1,34 @@
+{
+    "converted_mana_cost": 4,
+    "supertypes": [],
+    "types": ["Creature"],
+    "subtypes": ["Human", "Werewolf"],
+    "image_url": "http:\/\/gatherer.wizards.com\/Handlers\/Image.ashx?type=card&multiverseid=262875",
+    "gatherer_url": "http:\/\/gatherer.wizards.com\/Pages\/Card\/Details.aspx?multiverseid=262875",
+    "name": "Huntmaster of the Fells",
+    "text": "Whenever this creature enters the battlefield or transforms into Huntmaster of the Fells, put a 2\/2 green Wolf creature token onto the battlefield and you gain 2 life.\n\nAt the beginning of each upkeep, if no spells were cast last turn, transform Huntmaster of the Fells.",
+    "mana_cost": "{2}{R}{G}",
+    "power": 2,
+    "toughness": 2,
+    "versions": {
+        "262875": {
+            "expansion": "Dark Ascension",
+            "rarity": "Mythic Rare"
+        }
+    },
+    "legalities": {
+        "Standard": "Legal",
+        "Modern": "Legal",
+        "Extended": "Legal",
+        "Innistrad Block": "Legal",
+        "Legacy": "Legal",
+        "Vintage": "Legal",
+        "Freeform": "Legal",
+        "Prismatic": "Legal",
+        "Tribal Wars Legacy": "Legal",
+        "Tribal Wars Standard": "Legal",
+        "Classic": "Legal",
+        "Singleton 100": "Legal",
+        "Commander": "Legal"
+    }
+}

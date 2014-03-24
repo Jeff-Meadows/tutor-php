@@ -1,0 +1,48 @@
+{
+    "name": "Jace, the Mind Sculptor",
+    "mana_cost": "{2}{U}{U}",
+    "converted_mana_cost": 4,
+    "supertypes": [],
+    "types": ["Planeswalker"],
+    "subtypes": ["Jace"],
+    "text": "+2: Look at the top card of target player's library. You may put that card on the bottom of that player's library.\n\n0: Draw three cards, then put two cards from your hand on top of your library in any order.\n\n-1: Return target creature to its owner's hand.\n\n-12: Exile all cards from target player's library, then that player shuffles his or her hand into his or her library.",
+    "loyalty": 3,
+    "versions": {
+        "195297": {
+            "expansion": "Worldwake",
+            "rarity": "Mythic Rare"
+        },
+        "373316": {
+            "expansion": "From the Vault: Twenty",
+            "rarity": "Mythic Rare"
+        }
+    },
+    "community_rating": {
+        "rating": 4.081,
+        "votes": 978
+    },
+    "rulings": [
+        ["2010-03-01", "Jace, the Mind Sculptor is the first planeswalker with a loyalty ability that costs [0]. Activating this ability follows the same rules as activating any other planeswalker ability, though you'll neither put loyalty counters on Jace nor remove loyalty counters from Jace to do so."],
+        ["2010-03-01", "If you activate Jace's second ability, the two cards you put on top of your library may be any two cards from your hand. They don't have to be cards you drew with the ability."],
+        ["2010-03-01", "If two or more planeswalkers on the battlefield share a planeswalker subtype, all are put into their owners' graveyards. This means that if Jace Beleren and Jace, the Mind Sculptor are on the battlefield, both are put into their owners' graveyards."]
+    ],
+    "gatherer_url": "http:\/\/gatherer.wizards.com\/Pages\/Card\/Details.aspx?multiverseid=195297",
+    "image_url": "http:\/\/gatherer.wizards.com\/Handlers\/Image.ashx?type=card&multiverseid=195297",
+    "expansion": "Worldwake",
+    "rarity": "Mythic Rare",
+    "number": 31,
+    "artist": "Jason Chan",
+    "legalities": {
+        "Modern": "Banned",
+        "Extended": "Banned",
+        "Zendikar Block": "Legal",
+        "Legacy": "Legal",
+        "Vintage": "Legal",
+        "Freeform": "Legal",
+        "Prismatic": "Legal",
+        "Tribal Wars Legacy": "Legal",
+        "Classic": "Legal",
+        "Singleton 100": "Banned",
+        "Commander": "Legal"
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "name": "Fire \/\/ Ice",
+    "parts": [
+        {
+            "converted_mana_cost": 2,
+            "supertypes": [],
+            "types": ["Instant"],
+            "subtypes": [],
+            "image_url": "http:\/\/gatherer.wizards.com\/Handlers\/Image.ashx?type=card&multiverseid=247159",
+            "gatherer_url": "http:\/\/gatherer.wizards.com\/Pages\/Card\/Details.aspx?multiverseid=247159",
+            "name": "Ice",
+            "text": "Tap target permanent.\n\nDraw a card.",
+            "mana_cost": "{1}{U}",
+            "versions": {
+                "27166": {
+                    "expansion": "Apocalypse",
+                    "rarity": "Uncommon"
+                },
+                "27165": {
+                    "expansion": "Apocalypse",
+                    "rarity": "Uncommon"
+                },
+                "247159": {
+                    "expansion": "Magic: The Gathering-Commander",
+                    "rarity": "Uncommon"
+                },
+                "292753": {
+                    "expansion": "Duel Decks: Izzet vs. Golgari",
+                    "rarity": "Uncommon"
+                }
+            }
+        },
+        {
+            "converted_mana_cost": 2,
+            "supertypes": [],
+            "types": ["Instant"],
+            "subtypes": [],
+            "image_url": "http:\/\/gatherer.wizards.com\/Handlers\/Image.ashx?type=card&multiverseid=247159",
+            "gatherer_url": "http:\/\/gatherer.wizards.com\/Pages\/Card\/Details.aspx?multiverseid=247159",
+            "name": "Fire",
+            "text": "Fire deals 2 damage divided as you choose among one or two target creatures and\/or players.",
+            "mana_cost": "{1}{R}",
+            "versions": {
+                "27166": {
+                    "expansion": "Apocalypse",
+                    "rarity": "Uncommon"
+                },
+                "27165": {
+                    "expansion": "Apocalypse",
+                    "rarity": "Uncommon"
+                },
+                "247159": {
+                    "expansion": "Magic: The Gathering-Commander",
+                    "rarity": "Uncommon"
+                },
+                "292753": {
+                    "expansion": "Duel Decks: Izzet vs. Golgari",
+                    "rarity": "Uncommon"
+                }
+            }
+        }
+    ],
+    "legalities": {
+        "Invasion Block": "Legal",
+        "Legacy": "Legal",
+        "Vintage": "Legal",
+        "Freeform": "Legal",
+        "Prismatic": "Legal",
+        "Tribal Wars Legacy": "Legal",
+        "Classic": "Legal",
+        "Singleton 100": "Legal",
+        "Commander": "Legal"
+    }
+}

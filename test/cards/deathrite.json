@@ -1,0 +1,34 @@
+{
+    "converted_mana_cost": 1,
+    "supertypes": [],
+    "types": ["Creature"],
+    "subtypes": ["Elf", "Shaman"],
+    "image_url": "http:\/\/gatherer.wizards.com\/Handlers\/Image.ashx?type=card&multiverseid=290529",
+    "gatherer_url": "http:\/\/gatherer.wizards.com\/Pages\/Card\/Details.aspx?multiverseid=290529",
+    "name": "Deathrite Shaman",
+    "text": "<img src=\"\/Handlers\/Image.ashx?size=small&amp;name=tap&amp;type=symbol\" alt=\"Tap\" align=\"absbottom\" \/>: Exile target land card from a graveyard. Add one mana of any color to your mana pool.\n\n<img src=\"\/Handlers\/Image.ashx?size=small&amp;name=B&amp;type=symbol\" alt=\"Black\" align=\"absbottom\" \/>, <img src=\"\/Handlers\/Image.ashx?size=small&amp;name=tap&amp;type=symbol\" alt=\"Tap\" align=\"absbottom\" \/>: Exile target instant or sorcery card from a graveyard. Each opponent loses 2 life.\n\n<img src=\"\/Handlers\/Image.ashx?size=small&amp;name=G&amp;type=symbol\" alt=\"Green\" align=\"absbottom\" \/>, <img src=\"\/Handlers\/Image.ashx?size=small&amp;name=tap&amp;type=symbol\" alt=\"Tap\" align=\"absbottom\" \/>: Exile target creature card from a graveyard. You gain 2 life.",
+    "mana_cost": "{B\/G}",
+    "power": 1,
+    "toughness": 2,
+    "versions": {
+        "290529": {
+            "expansion": "Return to Ravnica",
+            "rarity": "Rare"
+        }
+    },
+    "legalities": {
+        "Standard": "Legal",
+        "Modern": "Banned",
+        "Extended": "Legal",
+        "Return to Ravnica Block": "Legal",
+        "Legacy": "Legal",
+        "Vintage": "Legal",
+        "Freeform": "Legal",
+        "Prismatic": "Legal",
+        "Tribal Wars Legacy": "Legal",
+        "Tribal Wars Standard": "Legal",
+        "Classic": "Legal",
+        "Singleton 100": "Legal",
+        "Commander": "Legal"
+    }
+}

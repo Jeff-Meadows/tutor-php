@@ -1,0 +1,954 @@
+{
+    "converted_mana_cost": 0,
+    "supertypes": ["Basic"],
+    "types": ["Land"],
+    "subtypes": ["Island"],
+    "image_url": "http:\/\/gatherer.wizards.com\/Handlers\/Image.ashx?type=card&multiverseid=289314",
+    "gatherer_url": "http:\/\/gatherer.wizards.com\/Pages\/Card\/Details.aspx?multiverseid=289314",
+    "name": "Island",
+    "text": "U",
+    "versions": {
+        "292": {
+            "expansion": "Limited Edition Alpha",
+            "rarity": "Land"
+        },
+        "293": {
+            "expansion": "Limited Edition Alpha",
+            "rarity": "Land"
+        },
+        "592": {
+            "expansion": "Limited Edition Beta",
+            "rarity": "Land"
+        },
+        "593": {
+            "expansion": "Limited Edition Beta",
+            "rarity": "Land"
+        },
+        "594": {
+            "expansion": "Limited Edition Beta",
+            "rarity": "Land"
+        },
+        "896": {
+            "expansion": "Unlimited Edition",
+            "rarity": "Land"
+        },
+        "894": {
+            "expansion": "Unlimited Edition",
+            "rarity": "Land"
+        },
+        "895": {
+            "expansion": "Unlimited Edition",
+            "rarity": "Land"
+        },
+        "1394": {
+            "expansion": "Revised Edition",
+            "rarity": "Land"
+        },
+        "1392": {
+            "expansion": "Revised Edition",
+            "rarity": "Land"
+        },
+        "1393": {
+            "expansion": "Revised Edition",
+            "rarity": "Land"
+        },
+        "2391": {
+            "expansion": "Fourth Edition",
+            "rarity": "Land"
+        },
+        "2389": {
+            "expansion": "Fourth Edition",
+            "rarity": "Land"
+        },
+        "2390": {
+            "expansion": "Fourth Edition",
+            "rarity": "Land"
+        },
+        "4201": {
+            "expansion": "Fifth Edition",
+            "rarity": "Land"
+        },
+        "4202": {
+            "expansion": "Fifth Edition",
+            "rarity": "Land"
+        },
+        "4200": {
+            "expansion": "Fifth Edition",
+            "rarity": "Land"
+        },
+        "4199": {
+            "expansion": "Fifth Edition",
+            "rarity": "Land"
+        },
+        "14740": {
+            "expansion": "Classic Sixth Edition",
+            "rarity": "Land"
+        },
+        "14737": {
+            "expansion": "Classic Sixth Edition",
+            "rarity": "Land"
+        },
+        "14738": {
+            "expansion": "Classic Sixth Edition",
+            "rarity": "Land"
+        },
+        "14739": {
+            "expansion": "Classic Sixth Edition",
+            "rarity": "Land"
+        },
+        "11349": {
+            "expansion": "Seventh Edition",
+            "rarity": "Land"
+        },
+        "11351": {
+            "expansion": "Seventh Edition",
+            "rarity": "Land"
+        },
+        "11348": {
+            "expansion": "Seventh Edition",
+            "rarity": "Land"
+        },
+        "11350": {
+            "expansion": "Seventh Edition",
+            "rarity": "Land"
+        },
+        "46442": {
+            "expansion": "Eighth Edition",
+            "rarity": "Land"
+        },
+        "46443": {
+            "expansion": "Eighth Edition",
+            "rarity": "Land"
+        },
+        "46441": {
+            "expansion": "Eighth Edition",
+            "rarity": "Land"
+        },
+        "46444": {
+            "expansion": "Eighth Edition",
+            "rarity": "Land"
+        },
+        "83137": {
+            "expansion": "Ninth Edition",
+            "rarity": "Land"
+        },
+        "83138": {
+            "expansion": "Ninth Edition",
+            "rarity": "Land"
+        },
+        "83136": {
+            "expansion": "Ninth Edition",
+            "rarity": "Land"
+        },
+        "83139": {
+            "expansion": "Ninth Edition",
+            "rarity": "Land"
+        },
+        "129608": {
+            "expansion": "Tenth Edition",
+            "rarity": "Land"
+        },
+        "129607": {
+            "expansion": "Tenth Edition",
+            "rarity": "Land"
+        },
+        "129606": {
+            "expansion": "Tenth Edition",
+            "rarity": "Land"
+        },
+        "129609": {
+            "expansion": "Tenth Edition",
+            "rarity": "Land"
+        },
+        "191400": {
+            "expansion": "Magic 2010",
+            "rarity": "Land"
+        },
+        "191387": {
+            "expansion": "Magic 2010",
+            "rarity": "Land"
+        },
+        "191389": {
+            "expansion": "Magic 2010",
+            "rarity": "Land"
+        },
+        "191390": {
+            "expansion": "Magic 2010",
+            "rarity": "Land"
+        },
+        "213619": {
+            "expansion": "Magic 2011",
+            "rarity": "Land"
+        },
+        "213618": {
+            "expansion": "Magic 2011",
+            "rarity": "Land"
+        },
+        "213616": {
+            "expansion": "Magic 2011",
+            "rarity": "Land"
+        },
+        "213617": {
+            "expansion": "Magic 2011",
+            "rarity": "Land"
+        },
+        "244325": {
+            "expansion": "Magic 2012",
+            "rarity": "Land"
+        },
+        "244326": {
+            "expansion": "Magic 2012",
+            "rarity": "Land"
+        },
+        "244324": {
+            "expansion": "Magic 2012",
+            "rarity": "Land"
+        },
+        "244323": {
+            "expansion": "Magic 2012",
+            "rarity": "Land"
+        },
+        "249723": {
+            "expansion": "Magic 2013",
+            "rarity": "Land"
+        },
+        "249724": {
+            "expansion": "Magic 2013",
+            "rarity": "Land"
+        },
+        "249725": {
+            "expansion": "Magic 2013",
+            "rarity": "Land"
+        },
+        "249726": {
+            "expansion": "Magic 2013",
+            "rarity": "Land"
+        },
+        "2767": {
+            "expansion": "Ice Age",
+            "rarity": "Land"
+        },
+        "2769": {
+            "expansion": "Ice Age",
+            "rarity": "Land"
+        },
+        "2768": {
+            "expansion": "Ice Age",
+            "rarity": "Land"
+        },
+        "3582": {
+            "expansion": "Mirage",
+            "rarity": "Land"
+        },
+        "3583": {
+            "expansion": "Mirage",
+            "rarity": "Land"
+        },
+        "3584": {
+            "expansion": "Mirage",
+            "rarity": "Land"
+        },
+        "3581": {
+            "expansion": "Mirage",
+            "rarity": "Land"
+        },
+        "4949": {
+            "expansion": "Tempest",
+            "rarity": "Land"
+        },
+        "4951": {
+            "expansion": "Tempest",
+            "rarity": "Land"
+        },
+        "4950": {
+            "expansion": "Tempest",
+            "rarity": "Land"
+        },
+        "4952": {
+            "expansion": "Tempest",
+            "rarity": "Land"
+        },
+        "8326": {
+            "expansion": "Urza's Saga",
+            "rarity": "Land"
+        },
+        "8329": {
+            "expansion": "Urza's Saga",
+            "rarity": "Land"
+        },
+        "8328": {
+            "expansion": "Urza's Saga",
+            "rarity": "Land"
+        },
+        "8327": {
+            "expansion": "Urza's Saga",
+            "rarity": "Land"
+        },
+        "20886": {
+            "expansion": "Mercadian Masques",
+            "rarity": "Land"
+        },
+        "20887": {
+            "expansion": "Mercadian Masques",
+            "rarity": "Land"
+        },
+        "20884": {
+            "expansion": "Mercadian Masques",
+            "rarity": "Land"
+        },
+        "20885": {
+            "expansion": "Mercadian Masques",
+            "rarity": "Land"
+        },
+        "26301": {
+            "expansion": "Invasion",
+            "rarity": "Land"
+        },
+        "25964": {
+            "expansion": "Invasion",
+            "rarity": "Land"
+        },
+        "26302": {
+            "expansion": "Invasion",
+            "rarity": "Land"
+        },
+        "26303": {
+            "expansion": "Invasion",
+            "rarity": "Land"
+        },
+        "31616": {
+            "expansion": "Odyssey",
+            "rarity": "Land"
+        },
+        "31614": {
+            "expansion": "Odyssey",
+            "rarity": "Land"
+        },
+        "31615": {
+            "expansion": "Odyssey",
+            "rarity": "Land"
+        },
+        "31613": {
+            "expansion": "Odyssey",
+            "rarity": "Land"
+        },
+        "40119": {
+            "expansion": "Onslaught",
+            "rarity": "Land"
+        },
+        "40120": {
+            "expansion": "Onslaught",
+            "rarity": "Land"
+        },
+        "40118": {
+            "expansion": "Onslaught",
+            "rarity": "Land"
+        },
+        "40117": {
+            "expansion": "Onslaught",
+            "rarity": "Land"
+        },
+        "48411": {
+            "expansion": "Mirrodin",
+            "rarity": "Land"
+        },
+        "48410": {
+            "expansion": "Mirrodin",
+            "rarity": "Land"
+        },
+        "48412": {
+            "expansion": "Mirrodin",
+            "rarity": "Land"
+        },
+        "48413": {
+            "expansion": "Mirrodin",
+            "rarity": "Land"
+        },
+        "79071": {
+            "expansion": "Champions of Kamigawa",
+            "rarity": "Land"
+        },
+        "79074": {
+            "expansion": "Champions of Kamigawa",
+            "rarity": "Land"
+        },
+        "79061": {
+            "expansion": "Champions of Kamigawa",
+            "rarity": "Land"
+        },
+        "79069": {
+            "expansion": "Champions of Kamigawa",
+            "rarity": "Land"
+        },
+        "95107": {
+            "expansion": "Ravnica: City of Guilds",
+            "rarity": "Land"
+        },
+        "95103": {
+            "expansion": "Ravnica: City of Guilds",
+            "rarity": "Land"
+        },
+        "95113": {
+            "expansion": "Ravnica: City of Guilds",
+            "rarity": "Land"
+        },
+        "95100": {
+            "expansion": "Ravnica: City of Guilds",
+            "rarity": "Land"
+        },
+        "122095": {
+            "expansion": "Time Spiral",
+            "rarity": "Land"
+        },
+        "122089": {
+            "expansion": "Time Spiral",
+            "rarity": "Land"
+        },
+        "122077": {
+            "expansion": "Time Spiral",
+            "rarity": "Land"
+        },
+        "118905": {
+            "expansion": "Time Spiral",
+            "rarity": "Land"
+        },
+        "143619": {
+            "expansion": "Lorwyn",
+            "rarity": "Land"
+        },
+        "143632": {
+            "expansion": "Lorwyn",
+            "rarity": "Land"
+        },
+        "143624": {
+            "expansion": "Lorwyn",
+            "rarity": "Land"
+        },
+        "143628": {
+            "expansion": "Lorwyn",
+            "rarity": "Land"
+        },
+        "158237": {
+            "expansion": "Shadowmoor",
+            "rarity": "Land"
+        },
+        "157875": {
+            "expansion": "Shadowmoor",
+            "rarity": "Land"
+        },
+        "157883": {
+            "expansion": "Shadowmoor",
+            "rarity": "Land"
+        },
+        "157874": {
+            "expansion": "Shadowmoor",
+            "rarity": "Land"
+        },
+        "21794": {
+            "expansion": "Starter 1999",
+            "rarity": "Land"
+        },
+        "21793": {
+            "expansion": "Starter 1999",
+            "rarity": "Land"
+        },
+        "21800": {
+            "expansion": "Starter 1999",
+            "rarity": "Land"
+        },
+        "21795": {
+            "expansion": "Starter 1999",
+            "rarity": "Land"
+        },
+        "25452": {
+            "expansion": "Starter 2000",
+            "rarity": "Land"
+        },
+        "25451": {
+            "expansion": "Starter 2000",
+            "rarity": "Land"
+        },
+        "22367": {
+            "expansion": "Battle Royale Box Set",
+            "rarity": "Land"
+        },
+        "21144": {
+            "expansion": "Battle Royale Box Set",
+            "rarity": "Land"
+        },
+        "22364": {
+            "expansion": "Battle Royale Box Set",
+            "rarity": "Land"
+        },
+        "22365": {
+            "expansion": "Battle Royale Box Set",
+            "rarity": "Land"
+        },
+        "22366": {
+            "expansion": "Battle Royale Box Set",
+            "rarity": "Land"
+        },
+        "27238": {
+            "expansion": "Beatdown Box Set",
+            "rarity": "Land"
+        },
+        "27237": {
+            "expansion": "Beatdown Box Set",
+            "rarity": "Land"
+        },
+        "27236": {
+            "expansion": "Beatdown Box Set",
+            "rarity": "Land"
+        },
+        "195170": {
+            "expansion": "Zendikar",
+            "rarity": "Land"
+        },
+        "195165": {
+            "expansion": "Zendikar",
+            "rarity": "Land"
+        },
+        "201966": {
+            "expansion": "Zendikar",
+            "rarity": "Land"
+        },
+        "201964": {
+            "expansion": "Zendikar",
+            "rarity": "Land"
+        },
+        "201963": {
+            "expansion": "Zendikar",
+            "rarity": "Land"
+        },
+        "201965": {
+            "expansion": "Zendikar",
+            "rarity": "Land"
+        },
+        "195187": {
+            "expansion": "Zendikar",
+            "rarity": "Land"
+        },
+        "195161": {
+            "expansion": "Zendikar",
+            "rarity": "Land"
+        },
+        "4424": {
+            "expansion": "Portal",
+            "rarity": "Land"
+        },
+        "4422": {
+            "expansion": "Portal",
+            "rarity": "Land"
+        },
+        "4421": {
+            "expansion": "Portal",
+            "rarity": "Land"
+        },
+        "4423": {
+            "expansion": "Portal",
+            "rarity": "Land"
+        },
+        "205939": {
+            "expansion": "Rise of the Eldrazi",
+            "rarity": "Land"
+        },
+        "205944": {
+            "expansion": "Rise of the Eldrazi",
+            "rarity": "Land"
+        },
+        "205945": {
+            "expansion": "Rise of the Eldrazi",
+            "rarity": "Land"
+        },
+        "205932": {
+            "expansion": "Rise of the Eldrazi",
+            "rarity": "Land"
+        },
+        "8391": {
+            "expansion": "Portal Second Age",
+            "rarity": "Land"
+        },
+        "8387": {
+            "expansion": "Portal Second Age",
+            "rarity": "Land"
+        },
+        "8390": {
+            "expansion": "Portal Second Age",
+            "rarity": "Land"
+        },
+        "10642": {
+            "expansion": "Portal Three Kingdoms",
+            "rarity": "Land"
+        },
+        "10551": {
+            "expansion": "Portal Three Kingdoms",
+            "rarity": "Land"
+        },
+        "10641": {
+            "expansion": "Portal Three Kingdoms",
+            "rarity": "Land"
+        },
+        "9677": {
+            "expansion": "Unglued",
+            "rarity": "Common"
+        },
+        "73951": {
+            "expansion": "Unhinged",
+            "rarity": "Land"
+        },
+        "174979": {
+            "expansion": "Shards of Alara",
+            "rarity": "Land"
+        },
+        "174977": {
+            "expansion": "Shards of Alara",
+            "rarity": "Land"
+        },
+        "174980": {
+            "expansion": "Shards of Alara",
+            "rarity": "Land"
+        },
+        "174978": {
+            "expansion": "Shards of Alara",
+            "rarity": "Land"
+        },
+        "284490": {
+            "expansion": "Duel Decks: Venser vs. Koth",
+            "rarity": "Land"
+        },
+        "284492": {
+            "expansion": "Duel Decks: Venser vs. Koth",
+            "rarity": "Land"
+        },
+        "284491": {
+            "expansion": "Duel Decks: Venser vs. Koth",
+            "rarity": "Land"
+        },
+        "221301": {
+            "expansion": "Archenemy",
+            "rarity": "Land"
+        },
+        "221300": {
+            "expansion": "Archenemy",
+            "rarity": "Land"
+        },
+        "221302": {
+            "expansion": "Archenemy",
+            "rarity": "Land"
+        },
+        "259287": {
+            "expansion": "Duel Decks: Ajani vs. Nicol Bolas",
+            "rarity": "Land"
+        },
+        "222725": {
+            "expansion": "Duel Decks: Elspeth vs. Tezzeret",
+            "rarity": "Land"
+        },
+        "222726": {
+            "expansion": "Duel Decks: Elspeth vs. Tezzeret",
+            "rarity": "Land"
+        },
+        "222727": {
+            "expansion": "Duel Decks: Elspeth vs. Tezzeret",
+            "rarity": "Land"
+        },
+        "222724": {
+            "expansion": "Duel Decks: Elspeth vs. Tezzeret",
+            "rarity": "Land"
+        },
+        "227505": {
+            "expansion": "New Phyrexia",
+            "rarity": "Land"
+        },
+        "227530": {
+            "expansion": "New Phyrexia",
+            "rarity": "Land"
+        },
+        "249805": {
+            "expansion": "Magic: The Gathering-Commander",
+            "rarity": "Land"
+        },
+        "249807": {
+            "expansion": "Magic: The Gathering-Commander",
+            "rarity": "Land"
+        },
+        "249806": {
+            "expansion": "Magic: The Gathering-Commander",
+            "rarity": "Land"
+        },
+        "249804": {
+            "expansion": "Magic: The Gathering-Commander",
+            "rarity": "Land"
+        },
+        "214682": {
+            "expansion": "Scars of Mirrodin",
+            "rarity": "Land"
+        },
+        "214672": {
+            "expansion": "Scars of Mirrodin",
+            "rarity": "Land"
+        },
+        "214678": {
+            "expansion": "Scars of Mirrodin",
+            "rarity": "Land"
+        },
+        "214666": {
+            "expansion": "Scars of Mirrodin",
+            "rarity": "Land"
+        },
+        "220369": {
+            "expansion": "Mirrodin Besieged",
+            "rarity": "Land"
+        },
+        "220365": {
+            "expansion": "Mirrodin Besieged",
+            "rarity": "Land"
+        },
+        "210511": {
+            "expansion": "Duel Decks: Phyrexia vs. the Coalition",
+            "rarity": "Land"
+        },
+        "245235": {
+            "expansion": "Innistrad",
+            "rarity": "Land"
+        },
+        "245237": {
+            "expansion": "Innistrad",
+            "rarity": "Land"
+        },
+        "245236": {
+            "expansion": "Innistrad",
+            "rarity": "Land"
+        },
+        "269639": {
+            "expansion": "Avacyn Restored",
+            "rarity": "Land"
+        },
+        "269633": {
+            "expansion": "Avacyn Restored",
+            "rarity": "Land"
+        },
+        "269625": {
+            "expansion": "Avacyn Restored",
+            "rarity": "Land"
+        },
+        "289313": {
+            "expansion": "Return to Ravnica",
+            "rarity": "Land"
+        },
+        "289315": {
+            "expansion": "Return to Ravnica",
+            "rarity": "Land"
+        },
+        "289314": {
+            "expansion": "Return to Ravnica",
+            "rarity": "Land"
+        },
+        "289316": {
+            "expansion": "Return to Ravnica",
+            "rarity": "Land"
+        },
+        "333719": {
+            "expansion": "Return to Ravnica",
+            "rarity": "Land"
+        },
+        "190589": {
+            "expansion": "Duel Decks: Jace vs. Chandra",
+            "rarity": "Land"
+        },
+        "190590": {
+            "expansion": "Duel Decks: Jace vs. Chandra",
+            "rarity": "Land"
+        },
+        "190588": {
+            "expansion": "Duel Decks: Jace vs. Chandra",
+            "rarity": "Land"
+        },
+        "190583": {
+            "expansion": "Duel Decks: Jace vs. Chandra",
+            "rarity": "Land"
+        },
+        "159281": {
+            "expansion": "Masters Edition",
+            "rarity": "Land"
+        },
+        "159283": {
+            "expansion": "Masters Edition",
+            "rarity": "Land"
+        },
+        "159282": {
+            "expansion": "Masters Edition",
+            "rarity": "Land"
+        },
+        "205288": {
+            "expansion": "Planechase",
+            "rarity": "Land"
+        },
+        "205289": {
+            "expansion": "Planechase",
+            "rarity": "Land"
+        },
+        "205287": {
+            "expansion": "Planechase",
+            "rarity": "Land"
+        },
+        "205286": {
+            "expansion": "Planechase",
+            "rarity": "Land"
+        },
+        "276462": {
+            "expansion": "Planechase 2012 Edition",
+            "rarity": "Land"
+        },
+        "276453": {
+            "expansion": "Planechase 2012 Edition",
+            "rarity": "Land"
+        },
+        "276466": {
+            "expansion": "Planechase 2012 Edition",
+            "rarity": "Land"
+        },
+        "276471": {
+            "expansion": "Planechase 2012 Edition",
+            "rarity": "Land"
+        },
+        "276452": {
+            "expansion": "Planechase 2012 Edition",
+            "rarity": "Land"
+        },
+        "292765": {
+            "expansion": "Duel Decks: Izzet vs. Golgari",
+            "rarity": "Land"
+        },
+        "292763": {
+            "expansion": "Duel Decks: Izzet vs. Golgari",
+            "rarity": "Land"
+        },
+        "292766": {
+            "expansion": "Duel Decks: Izzet vs. Golgari",
+            "rarity": "Land"
+        },
+        "292764": {
+            "expansion": "Duel Decks: Izzet vs. Golgari",
+            "rarity": "Land"
+        },
+        "206074": {
+            "expansion": "Masters Edition III",
+            "rarity": "Land"
+        },
+        "206072": {
+            "expansion": "Masters Edition III",
+            "rarity": "Land"
+        },
+        "206073": {
+            "expansion": "Masters Edition III",
+            "rarity": "Land"
+        },
+        "207935": {
+            "expansion": "Premium Deck Series: Slivers",
+            "rarity": "Land"
+        },
+        "370608": {
+            "expansion": "Magic 2014 Core Set",
+            "rarity": "Land"
+        },
+        "370611": {
+            "expansion": "Magic 2014 Core Set",
+            "rarity": "Land"
+        },
+        "370647": {
+            "expansion": "Magic 2014 Core Set",
+            "rarity": "Land"
+        },
+        "370773": {
+            "expansion": "Magic 2014 Core Set",
+            "rarity": "Land"
+        },
+        "373595": {
+            "expansion": "Theros",
+            "rarity": "Land"
+        },
+        "373558": {
+            "expansion": "Theros",
+            "rarity": "Land"
+        },
+        "373723": {
+            "expansion": "Theros",
+            "rarity": "Land"
+        },
+        "373736": {
+            "expansion": "Theros",
+            "rarity": "Land"
+        },
+        "376373": {
+            "expansion": "Commander 2013 Edition",
+            "rarity": "Land"
+        },
+        "376374": {
+            "expansion": "Commander 2013 Edition",
+            "rarity": "Land"
+        },
+        "376375": {
+            "expansion": "Commander 2013 Edition",
+            "rarity": "Land"
+        },
+        "376376": {
+            "expansion": "Commander 2013 Edition",
+            "rarity": "Land"
+        },
+        "380194": {
+            "expansion": "Duel Decks: Jace vs. Vraska",
+            "rarity": "Land"
+        },
+        "380217": {
+            "expansion": "Duel Decks: Jace vs. Vraska",
+            "rarity": "Land"
+        },
+        "380222": {
+            "expansion": "Duel Decks: Jace vs. Vraska",
+            "rarity": "Land"
+        },
+        "380223": {
+            "expansion": "Duel Decks: Jace vs. Vraska",
+            "rarity": "Land"
+        },
+        "380261": {
+            "expansion": "Duel Decks: Jace vs. Vraska",
+            "rarity": "Land"
+        }
+    },
+    "legalities": {
+        "Standard": "Legal",
+        "Modern": "Legal",
+        "Extended": "Legal",
+        "Return to Ravnica Block": "Legal",
+        "Innistrad Block": "Legal",
+        "Scars of Mirrodin Block": "Legal",
+        "Zendikar Block": "Legal",
+        "Shards of Alara Block": "Legal",
+        "Lorwyn-Shadowmoor Block": "Legal",
+        "Time Spiral Block": "Legal",
+        "Ravnica Block": "Legal",
+        "Kamigawa Block": "Legal",
+        "Mirrodin Block": "Legal",
+        "Onslaught Block": "Legal",
+        "Odyssey Block": "Legal",
+        "Invasion Block": "Legal",
+        "Masques Block": "Legal",
+        "Urza Block": "Legal",
+        "Tempest Block": "Legal",
+        "Mirage Block": "Legal",
+        "Ice Age Block": "Legal",
+        "Un-Sets": "Legal",
+        "Legacy": "Legal",
+        "Vintage": "Legal",
+        "Freeform": "Legal",
+        "Prismatic": "Legal",
+        "Tribal Wars Legacy": "Legal",
+        "Tribal Wars Standard": "Legal",
+        "Classic": "Legal",
+        "Singleton 100": "Legal",
+        "Commander": "Legal",
+        "Theros Block": "Legal"
+    }
+}
