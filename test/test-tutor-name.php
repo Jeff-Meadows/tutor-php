@@ -12,13 +12,14 @@ class TestTutorName extends TestTutor {
 		foreach($this->cards as $cardname => $cardobj) {
 			if (isset($cardobj->parts)) {
 				foreach ($cardobj->parts as $part) {
-					$this->name_test($cardname, $part);
+					$this->name_test($part);
 				}
-			} else $this->name_test($cardname, $cardobj);
+			} else $this->name_test($cardobj);
 		}
 	}
-	private function name_test($cardname, $cardobj) {
-        $multiverse = $this->tutor->get_card_by_name($cardobj->name);
+	private function name_test($cardobj) {
+        $cardname = $cardobj->name;
+        $multiverse = $this->tutor->get_card_by_name($cardname);
 		foreach($multiverse as $property => $value) {
 			if ($property !== 'legalities' && strpos($property, "_url") === false) {
 				if ($property === 'versions') {

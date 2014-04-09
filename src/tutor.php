@@ -257,10 +257,15 @@ class Tutor {
         	foreach(array_slice($pieces, 1) as $piece) {
         		$gatherer_url = self::name_details_url.urlencode($piece);
         		$image_url = self::name_gatherer_image_url.urlencode($piece);
-        		$html = $this->get_gatherer_page($gatherer_url, $language);
+                if (!isset($html)) {
+                    $html = $this->get_gatherer_page($gatherer_url, $language);
+                }
         		$cards[] = $this->get_card($piece, $html, $image_url, $gatherer_url);
         	}
-        	return array("parts" => $cards);
+        	return array(
+                'name' => $card,
+                "parts" => $cards
+            );
         }
         $gatherer_url = self::name_details_url.urlencode($card);
         $image_url = self::name_gatherer_image_url.urlencode($card);
