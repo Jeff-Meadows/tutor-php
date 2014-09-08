@@ -1,0 +1,24 @@
+{
+    "name": "Jeff-Meadows/tutor-php",
+    "description": "Port of Tutor (an MTG web scraping tool) to PHP",
+    "minimum-stability": "dev",
+    "license": "Apache",
+    "authors": [
+        {
+            "name": "Jeff Meadows",
+            "email": "jrmeadows2@gmail.com"
+        }
+    ],
+    "require": {
+        "mgargano/simplehtmldom": "~1.5"
+    },
+    "require-dev": {
+        "simpletest/simpletest": "1.1.*"
+    },
+    "autoload": {
+        "classmap": ["src/"]
+    },
+    "config": {
+        "bin-dir": "bin/"
+    }
+}
